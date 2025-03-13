@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @AnandochirA
+- 👋 Hi, I’m @Anandochir
 - 👀 I’m interested in coding, math, and going to gym
-- 🌱 I’m currently learning about backend development
+- 🌱 backend developer
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me anand999anand
+- 📫 How to reach me anandochir.amar@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Hustler
 
